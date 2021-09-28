@@ -1,5 +1,5 @@
 {
-  "name": "fivem-api",
+  "name": "fivem-server",
   "version": "1.0.0",
   "description": "Small package in order to interact with FiveM API",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sajjadmrx/fivem-api.git"
+    "url": "git+https://github.com/sajjadmrx/fivem-server.git"
   },
   "keywords": [
     "fivem",
@@ -31,9 +31,9 @@
   "author": "sajjadmrx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sajjadmrx/fivem-api/issues"
+    "url": "https://github.com/sajjadmrx/fivem-server/issues"
   },
-  "homepage": "https://github.com/sajjadmrx/fivem-api#readme",
+  "homepage": "https://github.com/sajjadmrx/fivem-server#readme",
   "dependencies": {
     "axios": "^0.21.4"
   }

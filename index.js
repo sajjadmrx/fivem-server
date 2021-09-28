@@ -80,5 +80,4 @@ class fivemApi {
 }
 
 
-
 module.exports = fivemApi;
