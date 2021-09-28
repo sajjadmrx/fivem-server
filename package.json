@@ -1,0 +1,40 @@
+{
+  "name": "fivem-api",
+  "version": "1.0.0",
+  "description": "Small package in order to interact with FiveM API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajjadmrx/fivem-api.git"
+  },
+  "keywords": [
+    "fivem",
+    "api fivem",
+    "fivem api",
+    "fivem_api",
+    "gta",
+    "gtav",
+    "gta_v",
+    "gta_five",
+    "gta_five_api",
+    "fivemDiscord",
+    "discordFivem",
+    "discord_fivem",
+    "discord_fivem_api",
+    "discord_fivem_api_client",
+    "discord_fivem_api_client_js",
+    "discord_fivem_api_client_node"
+  ],
+  "author": "sajjadmrx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajjadmrx/fivem-api/issues"
+  },
+  "homepage": "https://github.com/sajjadmrx/fivem-api#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
