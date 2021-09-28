@@ -1,6 +1,6 @@
 const FivemApi = require('../index')
 
-const myIp = process.env.IP || 'http://0000:30331'
+const myIp = process.env.IP || 'http://11.111.1111.11:30120'
 
 
 
@@ -31,7 +31,9 @@ const main = async () => {
     // fivemApi.getPlayers()
 
 
-    // fivemApi.getPlayersCount()
+    fivemApi.getPlayersCount()
+        .then(console.log)
+        .catch(console.error)
 
 }
 
